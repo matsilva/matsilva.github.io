@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MySql crashing on digital ocean is no big deal!"
+title:  "MySql crash launch repeat"
 date:   2015-01-28 21:13:09
 categories: sysadmin 
 ---
