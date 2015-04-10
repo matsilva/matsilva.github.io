@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Why I created RenderEffects?"
+date:   2015-04-10 21:13:09
+categories: startup
+---
 I remember when I first started out as a motion designer, it was hard. There was no clear cut path, I basically had bookmarked tutorials from across the web to learn from and kept searching the web on a daily basis. Every freelance job I got was an opportunity to try something new or apply something I learned.
 <!--more-->
 Each project, I usually slipped something in that was outside the scope of the work because I wanted to grow in my skills and have something to show for my portfolio. I always felt motivated by getting paid. It was validating both financially and psychologically. It made me feel like my hard work and creativity was appreciated and that I could continue to pursue new work.
