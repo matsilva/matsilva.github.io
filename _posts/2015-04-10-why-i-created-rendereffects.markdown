@@ -10,7 +10,7 @@ Each project, I usually slipped something in that was outside the scope of the w
 
 Where I live(d), freelancing is difficult. My target audience is small businesses and individuals who can only afford to pay peanuts for a video. I heard a lot of, “it will be a good opportunity to put on your portfolio,” when the topic of payment came up. I also had to compete with local production companies who used After Effects<small><sup>&trade;</sup></small> templates and churned them out like a manufacture production line because their business model suggested volume over quality. I didn't really stand a chance, but it didn't keep me from busting my arse and trying.
 
-Before I changed my career choice, I got into the online template business and created a handful of templates. I instantly loved doing it. Being able to create what I wanted and turn it into cash sounded amazing to me. I got customization inquiry emails all the time for my After Effects<small><sup>&trade;</sup></small> templates from customers who had purchased it and don't know how to use After Effects<small><sup>&trade;</sup></small>. I would charge $100 and wanted the quick cash, but the problem was by the time it was all said and done two days to one week later, it wasn't so quick! So I ended up saying no to most of these opportunities to make a little extra and turned away from pursuing online templates because I felt the target market was too small.
+Before I changed my career choice, I got into the online template business and created a handful of templates. I instantly loved doing it. Being able to create what I wanted and turn it into cash sounded amazing to me. I got customization inquiry emails all the time for my After Effects<small><sup>&trade;</sup></small> templates from customers who had purchased it and didn't know how to use After Effects<small><sup>&trade;</sup></small>. I would charge $100 and wanted the quick cash, but the problem was by the time it was all said and done two days to one week later, it wasn't so quick! So I ended up saying no to most of these opportunities to make a little extra and turned away from pursuing online templates because I felt the target market was too small.
 
 I ended up getting a job shortly after because I desperately needed one, so I put the kibosh on my motion design career and started focusing on my web development and programming career. What is awesome is those templates still generate small passive income every month for me to this day.
 
@@ -18,8 +18,9 @@ I ended up getting a job shortly after because I desperately needed one, so I pu
 
 *sample template created by the Mat Silva*
 
-Many motion graphic artists may be at a similar point, looking to generate passive income or are looking for a way to learn and grow while validating their creativity. I believe RenderEffects will create that opportunity.
+The problem I had with creating an online business selling template files is I felt it was not scalable to entry level consumers. I wanted to be able scale how I made money doing what I loved to do.
 
+Many motion graphic artists may be at a similar point, looking to generate passive income or are looking for a way to learn and grow while validating their creativity. I believe RenderEffects will create that opportunity.
 
 
 #### Performing a search on *how to make money with Blender*, I found these solutions.
