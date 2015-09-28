@@ -42,6 +42,9 @@ Add this to the cron tab by doing the following:
 ##Results
 What this will do is poll the status of MySql every minute. If the status is "start/running", it will start MySql again. This should be enough to keep your server going like the energizer bunny. 
 
+###Update 9-28-2015
+* After an update, the default innodb_buffer_pool_size was too large for the small droplet, which caused the restart to fail. Checkout the solution for that here http://askubuntu.com/questions/127264/cant-start-mysql-mysql-respawning-too-fast-stopped#answer-167003
+
 [do1]:	https://www.digitalocean.com/community/questions/mysql-keeps-crashing-on-512mb-droplet	
 [do2]:	https://www.digitalocean.com/community/questions/mysql-on-ubuntu-keeps-crashing	
 [do3]:	http://askubuntu.com/questions/451839/shell-script-issue-cron-job-script-to-restart-mysql-server-when-it-stops-accide	
